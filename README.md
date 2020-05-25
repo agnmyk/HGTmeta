@@ -13,10 +13,14 @@ For options description:
 
 python hgtmeta.py -h
 
+
 <br/>
 Running the program with default options:
+
 python hgtmeta.py -G data/Gtree_A -S data/Stree_A
+
 
 <br/>
 Setting costs for evolutionary events (duplication cost = 2, loss cost = 1, hgt cost = 3):
+
 python hgtboot.py -G data/Gtree_A -S data/Stree_A -D 2 -L 1 -T 3
