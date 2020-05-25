@@ -1,5 +1,5 @@
 # HGTmeta
-An efficient algorithm for the inference of the optimal gene-species mappings under the under the DTL model.
+An efficient algorithm for the inference of the optimal gene-species mappings under the DTL model.
 
 ## Requirements:
 Python 2.7
